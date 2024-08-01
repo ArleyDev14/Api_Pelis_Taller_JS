@@ -12,7 +12,6 @@
 - [Tecnologías usadas](#Tecnologías)
 - [Funcionalidad](#Funcionalidad)
 - [Autor/es](#Autor)
-- [Otros (Archivos, evidencias](#Otros)
 ---
 ## 👽️Hecho por:
 - [Arley Mantilla](#Autor)
