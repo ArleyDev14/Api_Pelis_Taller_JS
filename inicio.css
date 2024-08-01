@@ -73,6 +73,35 @@ header a{
     color: white;
     padding:1vw;
 }
+.paginacion{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#7E7EFF;
+    margin:2vw;
+    border-radius:1vw;
+    column-gap:2vw;
+    height:8vw;
+}
+
+.paginacion button{
+    padding:1vw;
+    border-radius:1vw;
+    background-color:#191933 ;
+    color:white;
+    border:0px solid;
+    height:6vw;
+    width:10vw;
+    cursor: pointer; /* Cursor tipo mano */
+    transition: background-color 0.3s ease;
+}
+
+.paginacion button:hover{
+    border:0.1vw solid white;
+    width:11vw;
+    height:7vw;
+}
+
 
 @media (max-width: 1200px) {
     header {
